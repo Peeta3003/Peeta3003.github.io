@@ -294,7 +294,7 @@ nav .container {
 
 .project-desc {
     color: var(--text-muted);
-    font-size: 14.5px;
+    font-size: 14px;
     line-height: 1.65;
 }
 
@@ -381,7 +381,7 @@ nav .container {
 footer {
     padding: 32px 0;
     border-top: 1px solid var(--border);
-    text-align: cetner;
+    text-align: center;
     font-size: 13px;
     color: var(--text-muted);
 }
